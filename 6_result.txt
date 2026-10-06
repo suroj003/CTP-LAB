@@ -1,0 +1,5 @@
+S1 Rahul Total=275 Average=68.75 Grade=C
+S2 Aman Total=310 Average=77.5 Grade=B
+S3 Raj Total=235 Average=58.75 Grade=D
+S4 Rohit Total=335 Average=83.75 Grade=A
+S5 Karan Total=284 Average=71.0 Grade=B
